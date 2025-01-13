@@ -5,6 +5,5 @@ RUN apt-get update \
     curl \
     git \
     sudo \
-    wget \
 	nano \
     && rm -rf /var/lib/apt/lists/*
